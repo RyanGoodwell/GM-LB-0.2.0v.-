@@ -1,0 +1,14 @@
+Write here what bugs u found in the library:
+game_library 0.2.0
+-----------------------------
+
+
+
+
+
+
+
+-----------------------------
+Authorofbug: 
+-----------------------------
+#And send me this file on rubahagoodwell@gmail.com#
