@@ -14,7 +14,7 @@ A simple Python game development library built on top of Pygame.
 ## Installation
 
 ```bash
-pip install .
+git clone https://github.com/library-for-game
 ```
 
 ## Usage
