@@ -14,7 +14,7 @@ A simple Python game development library built on top of Pygame.
 ## Installation
 
 ```bash
-git clone https://github.com/RyanGoodwell/library-for-game.git
+git clone https://github.com/RyanGoodwell/GM-LB-0.2.0v.-.git
 ```
 
 ## Usage
